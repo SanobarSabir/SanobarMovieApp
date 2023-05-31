@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\User\Desktop\Core\MovieApp\MovieApp\obj\Debug\MovieApp.pdb
